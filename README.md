@@ -1,4 +1,4 @@
-# openwrt-ubus-cve
+# openwrt-ubus-writeup
 
 a writeup on discovering and exploiting the openwrt ubus attack surface
 (unauthenticated session.login + weak acl defaults) that leads to full
